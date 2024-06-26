@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [boharanirajan.com.np](boharanirajan.com.np)
 
-- 💬 Ask me about **flutter,Dart,SEO**
+- 💬 Ask me about **flutter ,Dart ,SEO**
 
 - 📫 How to reach me **boharanirajan454@gmail.com**
 
