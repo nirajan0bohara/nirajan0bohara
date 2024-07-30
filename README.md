@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajan0bohara&label=Profile%20views&color=0e75b6&style=flat" alt="nirajan0bohara" /> </p>
 
-- 👨‍💻 All of my projects are available at [boharanirajan.com.np](boharanirajan.com.np)
+- 👨‍💻 All of my projects are available at [boharanirajan.com.np](https://boharanirajan.com.np/)
 
 - 💬 Ask me about **flutter ,Dart ,SEO**
 
