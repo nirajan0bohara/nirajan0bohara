@@ -10,7 +10,7 @@
   <strong>Detail-oriented QA Engineer</strong> with 2.5+ years of experience in manual testing, API testing, mobile app testing, and automation (Cypress & Selenium). Passionate about delivering high-quality, bug-free software through structured test cases, defect tracking (Jira), Agile collaboration, and continuous improvement.
 </p>
 
-- 🔍 **Specialized in**: Manual Testing • Functional & Regression Testing • API Testing (Postman) • Automation (Cypress, Selenium) • Mobile App Testing • UI/Usability Testing • Performance Basics (JMeter)
+- 🔍 **Specialized in**: Manual Testing • Functional & Regression Testing • API Testing (Postman) • Automation (Cypress, Selenium) • Mobile App Testing • UI/Usability Testing • Performance (JMeter)
 - 👨‍💻 **All QA projects & case studies** available on my portfolio: [boharanirajan.com.np](https://boharanirajan.com.np/)
 - 💬 **Ask me about**: Cypress automation frameworks, API validation, test case design, bug advocacy, Agile/STLC processes
 - 📫 **Reach me**: boharanirajan430@gmail.com | [LinkedIn](https://www.linkedin.com/in/nirajan-bohara-a97643237) | [Portfolio](https://boharanirajan.com.np/)
