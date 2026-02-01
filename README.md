@@ -1,6 +1,6 @@
 ![logo](https://github.com/nirajan0bohara/nirajan0bohara/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nirajan Bohara</h1>
-<h3 align="center">A passionate Flutter developer from Nepal</h3>
+<h3 align="center">A passionate QA Engineer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [boharanirajan.com.np](https://boharanirajan.com.np/)
 
-- 💬 Ask me about **flutter ,Dart ,SEO**
+- 💬 Ask me about **Manual Testing, Functional Testing, Mobile App Testing, API Testing, Automation Testing (Cypress, Selenium), Regression Testing, UI/Usability Testing ,flutter ,Dart ,SEO**
 
 - 📫 How to reach me **boharanirajan454@gmail.com**
 
