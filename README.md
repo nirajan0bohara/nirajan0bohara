@@ -1,16 +1,19 @@
-![logo](https://github.com/nirajan0bohara/nirajan0bohara/blob/main/Github%20Banner.png)
+![logo](https://github.com/nirajan0bohara/nirajan0bohara/blob/main/nirajan%20banner.png)
 <h1 align="center">Hi 👋, I'm Nirajan Bohara</h1>
-<h3 align="center">A passionate QA Engineer from Nepal</h3>
+<h3 align="center">A passionate QA Engineer | Manual + Automation Testing Specialist from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajan0bohara&label=Profile%20views&color=0e75b6&style=flat" alt="nirajan0bohara" /> </p>
 
-- 👨‍💻 All of my projects are available at [boharanirajan.com.np](https://boharanirajan.com.np/)
+<p align="center">
+  <strong>Detail-oriented QA Engineer</strong> with 2.5+ years of experience in manual testing, API testing, mobile app testing, and automation (Cypress & Selenium). Passionate about delivering high-quality, bug-free software through structured test cases, defect tracking (Jira), Agile collaboration, and continuous improvement.
+</p>
 
-- 💬 Ask me about **Manual Testing, Functional Testing, Mobile App Testing, API Testing, Automation Testing (Cypress, Selenium), Regression Testing, UI/Usability Testing ,flutter ,Dart ,SEO**
-
-- 📫 How to reach me **boharanirajan454@gmail.com**
+- 🔍 **Specialized in**: Manual Testing • Functional & Regression Testing • API Testing (Postman) • Automation (Cypress, Selenium) • Mobile App Testing • UI/Usability Testing • Performance Basics (JMeter)
+- 👨‍💻 **All QA projects & case studies** available on my portfolio: [boharanirajan.com.np](https://boharanirajan.com.np/)
+- 💬 **Ask me about**: Cypress automation frameworks, API validation, test case design, bug advocacy, Agile/STLC processes
+- 📫 **Reach me**: boharanirajan430@gmail.com | [LinkedIn](https://www.linkedin.com/in/nirajan-bohara-a97643237) | [Portfolio](https://boharanirajan.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
